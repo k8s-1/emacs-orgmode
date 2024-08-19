@@ -1,6 +1,6 @@
 # Emacs minimalist dotfile for orgmode
 
-* Only manage TODO's
+* Manage and schedule TODO's
 * Minimal feature setup
 * Requires emacs installed
 
