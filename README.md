@@ -8,3 +8,6 @@
 cp emacs ~/.emacs
 emacs
 ```
+
+## Orgmode commands
+* C-a
