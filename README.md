@@ -11,3 +11,16 @@ emacs
 
 ## Orgmode commands
 * C-a
+
+## Emacs commands
+* C-x C-f
+* C-x C-c
+
+## example.org file
+```
+* TODO one
+** [ ] check 1
+** [ ] check 2
+
+* TODO two
+```
